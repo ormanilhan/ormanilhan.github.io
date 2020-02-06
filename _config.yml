@@ -1,17 +1,14 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Code & Chill
+description: Code & Chill
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Recep Çil
+user_description: I have graduated with a bachelor’s degree in Computer Engineering as top-scoring student from Duzce University and I am currently working as a software development expert at VeriPark to provide specific solutions to clients which include the world’s largest and most respected banking, insurance and finance companies.
+user_title: I am a full-stack software developer.
+email: r.cilrecep@gmail.com
+linkedIn_username: https://www.linkedin.com/in/recepcil/
+github_username:  https://github.com/RecepCil
 
 # Google-analytics
 google-analytics:
