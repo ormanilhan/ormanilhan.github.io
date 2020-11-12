@@ -1,14 +1,14 @@
 # Site settings
-title: Code & Chill
-description: Code & Chill
+title: Ilhan ORMAN
+description: Ilhan ORMAN
 
 # User settings
-username: Recep Çil
-user_description: I have graduated with a bachelor’s degree in Computer Engineering as top-scoring student from Duzce University and I am currently working as a software development expert at VeriPark to provide specific solutions to clients which include the world’s largest and most respected banking, insurance and finance companies.
-user_title: I am a full-stack software developer.
-email: r.cilrecep@gmail.com
-linkedIn_username: https://www.linkedin.com/in/recepcil/
-github_username:  https://github.com/RecepCil
+username: Ilhan ORMAN
+user_description: I have graduated with a bachelor’s degree in Computer Engineering from Sakarya University and I am currently working as a full stack software development expert at VeriPark to provide specific solutions to clients which include the world’s largest and most respected banking, insurance and finance companies. 
+user_title: Full-stack software developer at VeriPark & Alternatif Bank
+email: ormanilhan@gmail.com
+linkedIn_username: https://www.linkedin.com/in/ormanilhan/
+github_username:  https://github.com/ormanilhan
 
 # Google-analytics
 google-analytics:
